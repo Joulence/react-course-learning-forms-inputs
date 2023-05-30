@@ -1,3 +1,5 @@
+This project is the part of the course "React - The Complete Guide" by Maximilian Schwarzmüller (https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+
 # React Course Project: Working with Forms and User Inputs
 
 This is the README file for the React course project that focuses on forms and user inputs. In this project, we will explore various concepts and techniques related to handling forms and user inputs in React applications.
